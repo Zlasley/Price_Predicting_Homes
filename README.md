@@ -1,5 +1,7 @@
 # Price_Predicting_Homes
 
+Here I will cover over predicting the price of a home in a specific location of America. Predicting the price will be based on a lot of variables that are put through Linear and Ridge regression model. We will use pipelines, one hot encoders, Simple imputers, R^2, ETC. 
+
 # Imports
 
 pandas
